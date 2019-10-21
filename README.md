@@ -1,20 +1,10 @@
 # Portfolio
-Number and name of feature: Profolio Feature 1
+Number and name of feature: LAB05a
 
-Estimate of time needed to complete: 3 hours
+Estimate of time needed to complete: 1 hours
 
-Start time: 9
+Start time: 9 am
 
-Finish time: 12
+Finish time: 12pm
 
-Actual time needed to complete: 5
-
-Number and name of feature: Profolio Feature 2
-
-Estimate of time needed to complete: 1
-
-Start time: 13
-
-Finish time: 14
-
-Actual time needed to complete: 2
+Actual time needed to complete: 3 hours

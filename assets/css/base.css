@@ -19,3 +19,27 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+
+#myVideo {
+	height: auto;
+ 	bottom: 0;
+ 	min-width: 100%; 
+	min-height: 100%;
+ 	opacity: 0.8;
+ 	position: fixed;
+	right: 0; 
+ 	width: auto; 
+ 		z-index: -998; 
+}   
+
+#video1 {
+ 	height: auto;
+	bottom: 0;
+	min-width: 100%; 
+ 	min-height: 100%;
+	opacity: 0.2;
+	position: fixed;
+ 	right: 0; 
+	width: auto; 
+	z-index: -999; 
+}   
